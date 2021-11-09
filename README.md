@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on getting master's degree in Learning Sciences & Technologies.
 - 🌱 I’m currently learning at Penn GSE.
-- 👯 I’m looking to collaborate on Web Dev.
-- 🤔 I’m looking for help with Front-End!
+- 👯 I’m looking to collaborate on education-related Web Dev. projects.
+- 🤔 I’m looking for help with Front-End & Learning Analytics!
 - 💬 Ask me about anything non-academic!
 - 📫 How to reach me: @mecheris_ee
 - 😄 Pronouns: she/her
